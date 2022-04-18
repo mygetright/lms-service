@@ -12,6 +12,7 @@
             "email": "hello@elatih.com"
         }
     ],
+    "version": "v1.1.9",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
